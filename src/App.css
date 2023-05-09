@@ -1,0 +1,17 @@
+
+
+.fetch{
+  padding:2rem;
+  border:2px solid #000000;
+  margin:2rem;
+
+}
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content:flex-start;
+  margin:2rem 0 0 2rem;
+  align-items:center;
+  max-width: 120px;
+  gap:1.25rem;
+}
